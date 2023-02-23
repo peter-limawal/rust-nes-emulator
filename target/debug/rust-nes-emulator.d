@@ -1,0 +1,1 @@
+C:\Users\Peter\Desktop\rust-eze\rust-nes-emulator\target\debug\rust-nes-emulator.exe: C:\Users\Peter\Desktop\rust-eze\rust-nes-emulator\src\cpu.rs C:\Users\Peter\Desktop\rust-eze\rust-nes-emulator\src\main.rs C:\Users\Peter\Desktop\rust-eze\rust-nes-emulator\src\opcodes.rs
