@@ -4,3 +4,6 @@ I developed a Nintendo Entertainment System (NES) emulator from scratch using Ru
 The primary goal of my project is to create an emulator that can run and play first-generation NES games, including classics like Pac Man, Donkey Kong, Ice Climber, Super Mario Bros, and many others. Our aim is to play NES games on our hardware, which means we have to simulate NES hardware. However, this simulation process introduces significant performance overhead compared to running native applications. By choosing Rust, we hope to gain additional performance budget for our needs. Rust's ability to go as low-level as necessary in terms of hardware and memory management makes it well-suited for the problem of hardware simulation.
 
 Currently, I’ve implemented the snake game to run when the emulator is used. Other games can be played as long as we have the machine code for the game. To use the emulator, download the source file, then run ```cargo run``` in the terminal.
+
+### Snake game run using my Rust NES Emulator
+![snake-game](https://github.com/peter-limawal/rust-nes-emulator/assets/59006829/6d70aee3-9797-4f0a-9a1c-5452620e1ffc)
